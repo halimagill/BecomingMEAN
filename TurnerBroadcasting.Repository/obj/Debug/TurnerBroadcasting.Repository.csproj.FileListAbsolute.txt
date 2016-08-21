@@ -1,0 +1,13 @@
+c:\users\halima\documents\visual studio 2012\Projects\TurnerBroadcasting\TurnerBroadcasting.Repository\bin\Debug\TurnerBroadcasting.Repository.dll.config
+c:\users\halima\documents\visual studio 2012\Projects\TurnerBroadcasting\TurnerBroadcasting.Repository\bin\Debug\TurnerBroadcasting.Repository.dll
+c:\users\halima\documents\visual studio 2012\Projects\TurnerBroadcasting\TurnerBroadcasting.Repository\bin\Debug\TurnerBroadcasting.Repository.pdb
+c:\users\halima\documents\visual studio 2012\Projects\TurnerBroadcasting\TurnerBroadcasting.Repository\bin\Debug\MongoDB.Bson.dll
+c:\users\halima\documents\visual studio 2012\Projects\TurnerBroadcasting\TurnerBroadcasting.Repository\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\halima\documents\visual studio 2012\Projects\TurnerBroadcasting\TurnerBroadcasting.Repository\bin\Debug\MongoDB.Driver.dll
+c:\users\halima\documents\visual studio 2012\Projects\TurnerBroadcasting\TurnerBroadcasting.Repository\bin\Debug\MongoRepository.Net45.dll
+c:\users\halima\documents\visual studio 2012\Projects\TurnerBroadcasting\TurnerBroadcasting.Repository\bin\Debug\MongoDB.Bson.xml
+c:\users\halima\documents\visual studio 2012\Projects\TurnerBroadcasting\TurnerBroadcasting.Repository\bin\Debug\MongoDB.Driver.xml
+c:\users\halima\documents\visual studio 2012\Projects\TurnerBroadcasting\TurnerBroadcasting.Repository\bin\Debug\MongoRepository.Net45.xml
+c:\users\halima\documents\visual studio 2012\Projects\TurnerBroadcasting\TurnerBroadcasting.Repository\obj\Debug\TurnerBroadcasting.Repository.csprojResolveAssemblyReference.cache
+c:\users\halima\documents\visual studio 2012\Projects\TurnerBroadcasting\TurnerBroadcasting.Repository\obj\Debug\TurnerBroadcasting.Repository.dll
+c:\users\halima\documents\visual studio 2012\Projects\TurnerBroadcasting\TurnerBroadcasting.Repository\obj\Debug\TurnerBroadcasting.Repository.pdb
